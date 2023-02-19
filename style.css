@@ -1,0 +1,21 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px auto;
+}
+img {
+    width: 150px;
+}
+.center {
+    text-align: center;
+}
+.player {
+    padding: 50px;
+}
+.active {
+    border: 2px solid red;
+}
+.white {
+    color: white;
+}
